@@ -54,6 +54,7 @@ namespace Calculadora2
             // 
             // btnQuatro
             // 
+            this.btnQuatro.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnQuatro.Location = new System.Drawing.Point(12, 191);
             this.btnQuatro.Name = "btnQuatro";
             this.btnQuatro.Size = new System.Drawing.Size(84, 76);
@@ -64,6 +65,7 @@ namespace Calculadora2
             // 
             // btnCinco
             // 
+            this.btnCinco.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnCinco.Location = new System.Drawing.Point(102, 191);
             this.btnCinco.Name = "btnCinco";
             this.btnCinco.Size = new System.Drawing.Size(84, 76);
@@ -74,6 +76,7 @@ namespace Calculadora2
             // 
             // btnSeis
             // 
+            this.btnSeis.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSeis.Location = new System.Drawing.Point(192, 191);
             this.btnSeis.Name = "btnSeis";
             this.btnSeis.Size = new System.Drawing.Size(84, 76);
@@ -84,6 +87,7 @@ namespace Calculadora2
             // 
             // btnUm
             // 
+            this.btnUm.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnUm.Location = new System.Drawing.Point(12, 273);
             this.btnUm.Name = "btnUm";
             this.btnUm.Size = new System.Drawing.Size(84, 76);
@@ -94,6 +98,7 @@ namespace Calculadora2
             // 
             // btnTres
             // 
+            this.btnTres.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnTres.Location = new System.Drawing.Point(192, 273);
             this.btnTres.Name = "btnTres";
             this.btnTres.Size = new System.Drawing.Size(84, 76);
@@ -104,6 +109,7 @@ namespace Calculadora2
             // 
             // btnDois
             // 
+            this.btnDois.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDois.Location = new System.Drawing.Point(102, 273);
             this.btnDois.Name = "btnDois";
             this.btnDois.Size = new System.Drawing.Size(84, 76);
@@ -114,6 +120,7 @@ namespace Calculadora2
             // 
             // btnNove
             // 
+            this.btnNove.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnNove.Location = new System.Drawing.Point(192, 109);
             this.btnNove.Name = "btnNove";
             this.btnNove.Size = new System.Drawing.Size(84, 76);
@@ -124,6 +131,7 @@ namespace Calculadora2
             // 
             // btnOito
             // 
+            this.btnOito.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnOito.Location = new System.Drawing.Point(102, 109);
             this.btnOito.Name = "btnOito";
             this.btnOito.Size = new System.Drawing.Size(84, 76);
@@ -134,6 +142,7 @@ namespace Calculadora2
             // 
             // btnSete
             // 
+            this.btnSete.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSete.Location = new System.Drawing.Point(12, 109);
             this.btnSete.Name = "btnSete";
             this.btnSete.Size = new System.Drawing.Size(84, 76);
@@ -144,6 +153,7 @@ namespace Calculadora2
             // 
             // btnIgual
             // 
+            this.btnIgual.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIgual.Location = new System.Drawing.Point(192, 355);
             this.btnIgual.Name = "btnIgual";
             this.btnIgual.Size = new System.Drawing.Size(84, 76);
@@ -154,6 +164,7 @@ namespace Calculadora2
             // 
             // btnVirgula
             // 
+            this.btnVirgula.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnVirgula.Location = new System.Drawing.Point(12, 355);
             this.btnVirgula.Name = "btnVirgula";
             this.btnVirgula.Size = new System.Drawing.Size(84, 76);
@@ -164,6 +175,7 @@ namespace Calculadora2
             // 
             // btnDivisao
             // 
+            this.btnDivisao.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDivisao.Location = new System.Drawing.Point(282, 109);
             this.btnDivisao.Name = "btnDivisao";
             this.btnDivisao.Size = new System.Drawing.Size(84, 76);
@@ -174,6 +186,7 @@ namespace Calculadora2
             // 
             // btnX
             // 
+            this.btnX.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnX.Location = new System.Drawing.Point(282, 191);
             this.btnX.Name = "btnX";
             this.btnX.Size = new System.Drawing.Size(84, 76);
@@ -184,6 +197,7 @@ namespace Calculadora2
             // 
             // btnMenos
             // 
+            this.btnMenos.Font = new System.Drawing.Font("Microsoft Sans Serif", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMenos.Location = new System.Drawing.Point(282, 273);
             this.btnMenos.Name = "btnMenos";
             this.btnMenos.Size = new System.Drawing.Size(84, 76);
@@ -194,6 +208,7 @@ namespace Calculadora2
             // 
             // btnMais
             // 
+            this.btnMais.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMais.Location = new System.Drawing.Point(282, 355);
             this.btnMais.Name = "btnMais";
             this.btnMais.Size = new System.Drawing.Size(84, 76);
@@ -204,6 +219,7 @@ namespace Calculadora2
             // 
             // button17
             // 
+            this.button17.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button17.Location = new System.Drawing.Point(282, 62);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(84, 44);
@@ -214,11 +230,13 @@ namespace Calculadora2
             // 
             // txtResultado
             // 
+            this.txtResultado.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.txtResultado.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtResultado.Location = new System.Drawing.Point(12, 5);
+            this.txtResultado.ForeColor = System.Drawing.SystemColors.InactiveBorder;
+            this.txtResultado.Location = new System.Drawing.Point(12, 12);
             this.txtResultado.Name = "txtResultado";
             this.txtResultado.ReadOnly = true;
-            this.txtResultado.Size = new System.Drawing.Size(350, 38);
+            this.txtResultado.Size = new System.Drawing.Size(354, 38);
             this.txtResultado.TabIndex = 18;
             this.txtResultado.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             this.txtResultado.TextChanged += new System.EventHandler(this.txtResultado_TextChanged);
@@ -226,7 +244,7 @@ namespace Calculadora2
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(20, 23);
+            this.label1.Location = new System.Drawing.Point(14, 25);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(0, 17);
             this.label1.TabIndex = 19;
@@ -234,13 +252,14 @@ namespace Calculadora2
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 21);
+            this.label2.Location = new System.Drawing.Point(6, 23);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(0, 17);
             this.label2.TabIndex = 20;
             // 
             // btnZero
             // 
+            this.btnZero.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnZero.Location = new System.Drawing.Point(102, 355);
             this.btnZero.Name = "btnZero";
             this.btnZero.Size = new System.Drawing.Size(84, 76);
@@ -252,9 +271,12 @@ namespace Calculadora2
             // lblOperacao
             // 
             this.lblOperacao.AutoSize = true;
-            this.lblOperacao.Location = new System.Drawing.Point(12, 21);
+            this.lblOperacao.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.lblOperacao.Font = new System.Drawing.Font("Microsoft Sans Serif", 16.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblOperacao.ForeColor = System.Drawing.SystemColors.ButtonFace;
+            this.lblOperacao.Location = new System.Drawing.Point(20, 17);
             this.lblOperacao.Name = "lblOperacao";
-            this.lblOperacao.Size = new System.Drawing.Size(0, 17);
+            this.lblOperacao.Size = new System.Drawing.Size(0, 32);
             this.lblOperacao.TabIndex = 22;
             this.lblOperacao.Click += new System.EventHandler(this.lblOperacao_Click);
             // 
@@ -262,6 +284,7 @@ namespace Calculadora2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveBorder;
             this.ClientSize = new System.Drawing.Size(374, 436);
             this.Controls.Add(this.lblOperacao);
             this.Controls.Add(this.btnZero);
