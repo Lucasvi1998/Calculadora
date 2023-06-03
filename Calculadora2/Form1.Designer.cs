@@ -256,7 +256,7 @@ namespace Calculadora2
             this.txtResultado.Size = new System.Drawing.Size(354, 38);
             this.txtResultado.TabIndex = 18;
             this.txtResultado.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.txtResultado.TextChanged += new System.EventHandler(this.txtResultado_TextChanged);
+            
             // 
             // label1
             // 
@@ -296,7 +296,7 @@ namespace Calculadora2
             this.lblOperacao.Name = "lblOperacao";
             this.lblOperacao.Size = new System.Drawing.Size(0, 32);
             this.lblOperacao.TabIndex = 22;
-            this.lblOperacao.Click += new System.EventHandler(this.lblOperacao_Click);
+        
             // 
             // button1
             // 
@@ -344,6 +344,7 @@ namespace Calculadora2
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora";
+           
             this.ResumeLayout(false);
             this.PerformLayout();
 

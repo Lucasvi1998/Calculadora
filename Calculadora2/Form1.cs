@@ -195,19 +195,10 @@ namespace Calculadora2
             lblOperacao.Text = "";  //para limpar o operador no label
         }
 
-        private void lblOperacao_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void txtResultado_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
-            this.Close();
+            Close();
         }
-    }
+
+      }
 }
