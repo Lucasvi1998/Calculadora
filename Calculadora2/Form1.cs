@@ -77,7 +77,7 @@ namespace Calculadora2
         }
 
         private void btnNove_Click(object sender, EventArgs e)
-        {
+        { 
             txtResultado.Text += "9";
         }
 
