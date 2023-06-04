@@ -348,7 +348,7 @@ namespace Calculadora2
             this.txtResultado.Size = new System.Drawing.Size(330, 153);
             this.txtResultado.TabIndex = 24;
             this.txtResultado.Text = "";
-            this.txtResultado.TextChanged += new System.EventHandler(this.txtResultado_TextChanged);
+      
             // 
             // btnMais
             // 
@@ -456,7 +456,7 @@ namespace Calculadora2
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora";
-            this.Load += new System.EventHandler(this.Form1_Load);
+        
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel2.ResumeLayout(false);
             this.ResumeLayout(false);
